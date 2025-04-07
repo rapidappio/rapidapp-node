@@ -1,5 +1,5 @@
 {
-  "name": "rapidapp-node",
+  "name": "@rapidappio/rapidapp-node",
   "version": "1.0.0",
   "description": "Node.js client for Rapidapp",
   "main": "dist/index.js",
@@ -15,7 +15,7 @@
     "grpc",
     "client"
   ],
-  "author": "",
+  "author": "Rapidapp",
   "license": "MIT",
   "dependencies": {
     "@grpc/grpc-js": "^1.9.14",
@@ -31,5 +31,13 @@
     "ts-jest": "^29.3.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapidappio/rapidapp-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rapidappio/rapidapp-node/issues"
+  },
+  "homepage": "https://github.com/rapidappio/rapidapp-node#readme"
 }
