@@ -7,8 +7,7 @@
   "scripts": {
     "build": "tsc",
     "test": "jest",
-    "test:watch": "jest --watch",
-    "demo": "ts-node src/demo.ts"
+    "test:watch": "jest --watch"
   },
   "keywords": [
     "rapidapp",
